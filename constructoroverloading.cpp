@@ -20,3 +20,7 @@ mahasiswa :: mahasiswa() {
 mahasiswa :: mahasiswa(int iNim) {
     nim = iNim; // Definisi hanya nim
 }
+
+mahasiswa :: mahasiswa(string iNama) {
+    nama = iNama; // Definisi hanya nama
+}
