@@ -11,5 +11,6 @@ mahasiswa::mahasiswa() {
 };
 
 int main() {
-   
+   mahasiswa mhs; // Membuat objek 
+   return 0;
 }
